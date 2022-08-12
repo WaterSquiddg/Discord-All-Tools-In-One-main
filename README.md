@@ -16,11 +16,11 @@
   <a href="https://github.com/AstraaDev">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-All-Tools-In-One.svg?label=Repo%20size&style=flat-square">
   </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://gpvc.arturio.dev/AstraaDev">
+  <a href="https://github.com/WaterSquiddg">
+    <img src="https://gpvc.arturio.dev/WaterSquiddg">
   </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
+    <p align="center"> <a href="https://twitter.com/WaterSquidd" target="blank">
+    <img src="https://img.shields.io/twitter/follow/WaterSquidd?logo=twitter&style=for-the-badge" alt="WaterSquidd"/></a>
   </a>
 </p>
 
