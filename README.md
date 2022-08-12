@@ -13,8 +13,8 @@
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-All-Tools-In-One.svg?label=Repo%20size&style=flat-square">
+  <a href="https://github.com/WaterSquiddg">
+    <img src="https://img.shields.io/github/repo-size/WaterSquiddg/Discord-All-Tools-In-One.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/WaterSquiddg">
     <img src="https://gpvc.arturio.dev/WaterSquiddg">
@@ -36,15 +36,15 @@ This project was created only for good purposes and personal use.
 By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
-- [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
+- [ ] - [Selft Bot](https://github.com/WaterSquiddg/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
-- [ ] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
-- [ ] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
-- [x] - [VideoCrash Maker](https://github.com/AstraaDev/Discord-VideoCrashMaker) - Convert a video into an identical video that makes Crash discord app when played.
-- [x] - [File Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-- [ ] - [IP Grabber](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to retrieve the IP of any person who is on a call with you.
-- [x] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
-- [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
+- [ ] - [Raid Tool](https://github.com/WaterSquiddg/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
+- [ ] - [Server Nuker](https://github.com/WaterSquiddg/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
+- [x] - [VideoCrash Maker](https://github.com/WaterSquiddg/Discord-VideoCrashMaker) - Convert a video into an identical video that makes Crash discord app when played.
+- [x] - [File Grabber](https://github.com/WaterSquiddg/Discord-Token-Grabber) - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
+- [ ] - [IP Grabber](https://github.com/WaterSquiddg/Discord-All-Tools-In-One) - Allows you to retrieve the IP of any person who is on a call with you.
+- [x] - [Token Qr Generator](https://github.com/WaterSquiddg/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
+- [x] - [Account Nuker](https://github.com/WaterSquiddg/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
 - [x] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
 - [ ] - [Account Generator](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Create a discord account valid every 1min30 and give you the associated token. 
 - [x] - [Settings Cycler](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Cycle theme color (Black/White), Language and Statue of a user with his Token.
