@@ -84,7 +84,7 @@ Script Informations:
 - For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/moom825/Discord-RAT).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/778283706388709376/983080071805952040/unknown.png?size=4096)
+![home.png](https://cdn.discordapp.com/attachments/953086393469505536/1007698153333596160/unknown.png)
 
 ## Errors/Fixes
 
